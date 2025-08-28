@@ -8,7 +8,7 @@
 
 ---
 
-## 🔥 About Me  
+## About Me  
 - 💻 Building scalable and high-performance web & mobile apps  
 - 🌍 Experienced in startups, mid-sized companies, and enterprise environments  
 - 🤖 Exploring **AI integration, LLM APIs, and AI Agents**  
