@@ -13,7 +13,6 @@
 - 🌍 Experienced in startups, mid-sized companies, and enterprise environments  
 - 🤖 Exploring **AI integration, LLM APIs, and AI Agents**  
 - 🧑‍🏫 Passionate about mentoring & knowledge sharing  
-- 🎯 Currently seeking new challenges as a **Senior Frontend / Full Stack Developer**  
 
 ---
 
