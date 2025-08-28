@@ -37,14 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Yakup's GitHub stats](https://github-readme-stats.vercel.app/api?username=yakupme&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakupme&layout=compact&theme=tokyonight)  
-
----
-
 ## ✨ Random Dev Quote  
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
