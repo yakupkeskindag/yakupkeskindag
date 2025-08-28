@@ -4,7 +4,7 @@
 
 📍 London, UK  
 📧 [y.keskindag@gmail.com](mailto:y.keskindag@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/yakupme) | [GitHub](https://github.com/yakupme)  
+🔗 [LinkedIn](https://linkedin.com/in/yakupme) | [GitHub](https://github.com/yakupkeskindag)  
 
 ---
 
